@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-27T22:31:19.913Z</updated>
+  <updated>2019-07-29T20:10:28.345Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>关于我</title>
+    <title>about me</title>
     <link href="http://yoursite.com/2019/07/27/a/"/>
     <id>http://yoursite.com/2019/07/27/a/</id>
     <published>2019-07-27T21:48:52.000Z</published>
-    <updated>2019-07-27T22:31:19.913Z</updated>
+    <updated>2019-07-29T20:10:28.345Z</updated>
     
     <content type="html"><![CDATA[<p>初代码农，python青铜玩家，软件工程专业，未来迷茫中。</p><p>开设此博客原因有三：<br>其一：近期感觉记忆力显著衰退，往日的美好都如过眼云烟，检索困难。故希望通过构建一个电子化储备栈，记录下我的学习历程随查随翻，积累经验。<br>其二：学习动力不足，思考不够。希望通过每周一篇学习笔记督促自己增加阅读量，学习和思考时间。<br>其三：给自己在这个世界找一个落脚点，不想要雁过寥无痕。</p><p>前两日隔壁巴勒斯坦的小哥哥散步时感叹着：<br><b><font color="#0080ff">So, here you are, too foreign for home, too foreign for here, never enough for both.</font></b><br>这句话大概说出了每个异乡人的心声吧。<br>我看来，既然选择来到了这个遥远的国家，就要学着去接纳和承受，一切的一切。<br>希望这里成为我的一方净土，感恩。</p>]]></content>
     
@@ -41,11 +41,11 @@
   </entry>
   
   <entry>
-    <title>使用Github和hexo建立自己的博客（基于Ubuntu 18.08）</title>
+    <title>（基于Ubuntu 18.08）</title>
     <link href="http://yoursite.com/2019/07/27/website-build/"/>
     <id>http://yoursite.com/2019/07/27/website-build/</id>
     <published>2019-07-27T21:48:52.000Z</published>
-    <updated>2019-07-27T23:03:39.257Z</updated>
+    <updated>2019-07-29T20:11:22.973Z</updated>
     
     <content type="html"><![CDATA[<p>这是我的博客建立后的第一篇文章，决定从建站教程写起。<br>教程总共分为四部分：1. 下载和设置git. 2. hexo配置. 3. Next主题美化教程 4. 博客基本操作</p><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>为什么要使用hexo框架在github上建站？</p><blockquote><p>免费，方便，美！</p></blockquote><h3 id="git下载和设置"><a href="#git下载和设置" class="headerlink" title="git下载和设置"></a>git下载和设置</h3><h3 id="hexo配置"><a href="#hexo配置" class="headerlink" title="hexo配置"></a>hexo配置</h3><h3 id="后续：Next主题美化"><a href="#后续：Next主题美化" class="headerlink" title="后续：Next主题美化"></a>后续：Next主题美化</h3><ol><li>比较基础的一些美化功能，博主写的也很详细<br><a href="http://shenzekun.cn/hexo%E7%9A%84next%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html" target="_blank" rel="noopener">http://shenzekun.cn/hexo%E7%9A%84next%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html</a></li><li>全面的美化功能<br><a href="https://me.idealli.com/post/e8d13fc.html" target="_blank" rel="noopener">https://me.idealli.com/post/e8d13fc.html</a><h3 id="后续：博客基本操作"><a href="#后续：博客基本操作" class="headerlink" title="后续：博客基本操作"></a>后续：博客基本操作</h3></li></ol>]]></content>
     
